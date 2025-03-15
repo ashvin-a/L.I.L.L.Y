@@ -22,6 +22,7 @@ langsmith==0.2.10
 multidict==6.1.0
 numpy==1.26.4
 ollama==0.4.5
+opencv-python==4.11.0.86
 orjson==3.10.13
 packaging==24.2
 propcache==0.2.1
